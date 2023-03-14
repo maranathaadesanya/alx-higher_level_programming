@@ -13,4 +13,4 @@ module.exports = class Square extends square {
       console.log(char.repeat(this.width));
     }
   }
-}
+};
